@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"project_iam_bindings","Source":"registry.terraform.io/terraform-google-modules/iam/google//modules/projects_iam","Version":"7.4.1","Dir":".terraform/modules/project_iam_bindings/modules/projects_iam"},{"Key":"project_iam_bindings.helper","Source":"../helper","Dir":".terraform/modules/project_iam_bindings/modules/helper"}]}
